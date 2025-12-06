@@ -1,0 +1,8 @@
+*.class
+*.log
+*.ctxt
+.DS_Store
+# NetBeans specific
+nbproject/
+build/
+dist/
